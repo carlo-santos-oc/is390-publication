@@ -98,7 +98,7 @@ let reasonsChart = new Chart(top_reasons_wfh, {
 
             },
             legend: {
-                position: 'bottom',
+                position: 'right',
                 labels: {
                     color: '#000'
                 }
