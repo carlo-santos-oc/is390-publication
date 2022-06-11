@@ -1,0 +1,23 @@
+{
+  "name": "is390-publication",
+  "version": "1.0.0",
+  "description": "is 390 D3",
+  "main": "index.js",
+  "scripts": {
+    "test": "node-test",
+    "start-server": "node server.js && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlo-santos-oc/is390-publication.git"
+  },
+  "author": "Carlo Santos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlo-santos-oc/is390-publication/issues"
+  },
+  "homepage": "https://github.com/carlo-santos-oc/is390-publication#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
